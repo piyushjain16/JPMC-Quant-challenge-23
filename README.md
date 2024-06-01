@@ -30,7 +30,7 @@ This project aims to predict stock prices by leveraging the Random Walk Theory a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction.git
+   git clone https://github.com/piyushjain16/JPMC-Quant-challenge-23.git
    cd stock-price-prediction
    ```
 
@@ -73,12 +73,3 @@ We welcome contributions to improve this project. Please follow these steps to c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- The Random Walk Theory and its application in financial markets.
-- The open-source community for providing invaluable tools and resources.
-
----
-
-Feel free to customize the content, especially the repository URL, your GitHub username, and any specific instructions related to your project.
